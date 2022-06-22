@@ -1,0 +1,60 @@
+
+.register{
+	background-color:#cce6fc;
+	padding: 10px;
+	width:50%;	
+	margin-left:25%;
+	border-radius:10px;
+}
+
+.register input[type=text],input[type=tel],input[type=email],input[type=password]{
+	width:100%;
+	padding:12px 20px;
+	margin:8px 0;
+	display:inline-block;
+	border:1px solid #ccc;
+	border-radius:4px;
+	box-sizing:border-box;
+
+}
+
+
+.register select{
+	width:29.91%;
+	padding:12px 20px;
+	margin:8px 0;
+	display:inline-block;
+	border:1px solid #ccc;
+	border-radius:4px;
+	box-sizing:border-box;	
+
+}
+
+.register textarea{
+	width:50%;
+	height:200px;
+	padding 12px;
+	border:1px solid #ccc;
+	border-radius:4px;
+	
+
+}
+
+
+.register input[type='submit']{
+	border:1px solid #1d69ab;
+	background-color:#1d69ab;
+	color:white;
+	height:40px; 
+	width:120px;
+	margin-left:45%;
+	font-size:20px;
+	border-radius:4px;
+}
+
+
+
+
+
+
+

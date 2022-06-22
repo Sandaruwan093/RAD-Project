@@ -1,0 +1,54 @@
+.res{
+	float:left;
+	margin:40px 30px;
+}
+
+.Item_desc{
+	float:right;
+	
+	margin:20px 20px;
+}
+
+.c1{
+	margin:100px 60px;
+	
+}
+button{
+	background-color:#1d69ab;
+	color:white;
+}
+
+
+.b input[type="number"]{
+	border:1px solid #1d69ab;;
+	height:26px; 
+	width:40px;
+	float:left;
+	text-align:center;
+}
+
+
+.b input[type='submit']{
+	border:1px solid #1d69ab;
+	background-color:#1d69ab;
+	color:white;
+	height:30px; 
+	width:100px;
+	margin-left:5px;
+}
+
+
+
+#submit{
+	border:1px solid #1d69ab;
+	width:100px;
+	height:30px;
+	margin:0px 30px;
+}
+
+.Item_desc p{
+	color: #808080;
+}
+.c1 h2{
+	color: #1d69ab;
+}
